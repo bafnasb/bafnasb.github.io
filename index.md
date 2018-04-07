@@ -1,4 +1,6 @@
-## Hello,World! The Site is Under Construction
+## Hello,World!
+
+Hello reader I am Shreyansh Jain, a pre-final year undergraduate student pursuing Bachelor's of Engineering at Bhilai Institute of Technology,Durg (Chhattisgarh)
 
 You can use the [editor on GitHub](https://github.com/bafnasb/bafnasb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
