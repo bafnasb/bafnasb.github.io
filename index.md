@@ -83,3 +83,13 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
 - Member of Organising Commitee at Annual Techno-Culture Fest **“OJAS’17”** of Bhilai Institute of Technology,Durg. 
 - Member of Committe for organising **“Technocal Paper Presentation”** competition on Engineer’s Day’17 
 - Member of Committe for organising **“Quiz Competition”** on Engineer’s Day’16.
+
+-------------------------------------------------------------
+### Want to Know More,Follow any of the below link!!
+-------------------------------------------------------------
+[<img src="./icons/facebook.png" height="50px" width="50px">](https://www.facebook.com/bafna.shreyanshjain)
+[<img src="./icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico" height="50px" width="50px">](https://angel.co/bafnasb)
+[<img src="./icons/fluidicon.png" height="50px" width="50px">](https://github.com/bafnasb)
+[<img src="./icons/linkedin.png" height="50px" width="50px">](https://www.linkedin.com/in/jshreyansh/)
+[<img src="./icons/twitter.png" height="50px" width="50px">](https://twitter.com/bafna_sb/)
+[<img src="./icons/wordpress-logo-button.png" height="50px" width="50px">](https://shreyanshjain96.wordpress.com/)
