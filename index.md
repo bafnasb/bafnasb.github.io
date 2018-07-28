@@ -45,6 +45,7 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
     - Front End for Web : HTML/CSS
     - API : php
     - Database : MySql 
+
 ### TRAININGS/INTERNSHIPS
 - Vocational Trainee at Bhilai Steel Plant , Bhilai(C.G.).
   - Traning Department : Computer & Informaton Department. 
