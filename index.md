@@ -1,8 +1,6 @@
-# SHREYANSH JAIN
+Hey there,I am a final year undergraduate student,pursuing **Bachelor's of Engineering** at **Bhilai Institute of Technology**,Bhilai House,Durg  (C.G.),I am currently seeking a position as a Software Engineer to execute my skills,abilities and experiences gained through relevant education and projects to contribute to the growth of the company.
 
-I am a final year undergraduate student,pursuing **Bachelor's of Engineering** at **Bhilai Institute of Technology**,Bhilai House,Durg  (C.G.),I am currently seeking a position as a Software Engineer to execute my skills,abilities and experiences gained through relevant education and projects to contribute to the growth of the company.
-
-### PERSONAL DETAILS
+## PERSONAL DETAILS
 
 - Father’s Name : Mr. Sanjay Bafna
 - Address : Ganjpara,Durg (C.G.)
@@ -11,7 +9,7 @@ I am a final year undergraduate student,pursuing **Bachelor's of Engineering** a
 - Contact Number : (+91) 9039862662
 - E-Mail Address : bafnashanky1996@gmail.com
 
-### EDUCATION
+## EDUCATION
 
 **Name of Institute** | **Board/University** | **Quaification** | **Year** | **Percentage/G.P.A**
 ------------ | ------------- | ------------ | ------------- | -------------
@@ -19,14 +17,14 @@ Bhilai Institute of Technology,Bhilai House,Durg(C.G.) | Chhattisgarh Swami Vive
 Krishna Public School,Nehru Nagar Bhilai(C.G.) | Central Board Of Secondary Education.| 12th | 2014 | 80.6% 
 Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Secondary Education.| 10th | 2012 | C.G.P.A : 7.8 ~ 74.1%
 
-### KEY TECHNICAL SKILLS
+## KEY TECHNICAL SKILLS
 - Operating Systems: Linux.
 - Web Development: HTML/CSS,PHP.
 - Programming Languages: C,Java,Python.
 - Database: SQL Server.
 - Mobile Application Development: Android.
 
-### RELEVANT PROJECTS
+## RELEVANT PROJECTS
 - **E-Healthcare : Electronic Health Record Management for Government Hospital**,developed in 36 hours at **Smart India Hackathon,2018**.
   - Role : Android Application Developer 
   - Technology Used In Project :
@@ -46,13 +44,13 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
     - API : php
     - Database : MySql
 
-### TRAININGS/INTERNSHIPS
+## TRAININGS/INTERNSHIPS
 - Vocational Trainee at **Bhilai Steel Plant** , Bhilai(C.G.).
   - Traning Department : Computer & Informaton Department. 
 - Vocational Trainee at **Ingenious Technosys** , Durg(C.G.).
   - Technology Learned : Mobile Application Development in Android.
 
-### ON-GOING PROJECTS
+## ON-GOING PROJECTS
 - **Anaphora Resolution System** in Hindi.
   - Domain : **Natural Language Processing**.
   - Programming Language : Python
@@ -62,7 +60,7 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
           - Dr.(Mrs.) Ani Thomas,Professor & Head,Department of Information Technology ,Bhilai Institute of Technology ,Bhilai House ,Durg (C.G.).
           - Seema Mahato,Research Scholar,Dr. C.V Raman University,Bilaspur (C.G.).
 
-### HONOURS / AWARDS
+## HONOURS / AWARDS
 - **Rank – 8 in Smart India Hackathon,2018** organised by Government of India and created the solution for the below written problem statement in the 36 hours Nonstop Hackathon  :
   - Problem : ‘No Centralised Medical Records in Government Hospital’.
   - Department/Ministry : ‘Ministry of Tamil Nadu’.
@@ -76,7 +74,7 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
 - Selected as the only candidate from School for taking part in the “District Level Science Project Exhibition” under the 
 “Scheme for Inspire Award” organised by **“Government of Chhattisgarh”** in the year 2011.
 
-### POSITION OF RESPONSIBILITY
+## POSITION OF RESPONSIBILITY
 - Member of Organising Committe for **“The Game Of Codes”**,coding contest,Organised by the Department of Information Technology,Bhilai Institute of Technology,Durg on 4th March,2017.
 - Member of Organising Committe for **“Raspberry JAM”** ,Organised by the Information Technology Assciation,Bhilai Institute of Technology,Durg on 16th September,2017.
 - Member of Student Editorial Board for the **“Quarterly Newsletter”** of Department of Information Technology,Bhilai Institute of Technology,Durg since October,2016.
@@ -85,7 +83,7 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
 - Member of Committe for organising **“Quiz Competition”** on Engineer’s Day’16.
 
 -------------------------------------------------------------
-### Want to Know More,Follow any of the below link!!
+## Want to Know More,Follow any of the below link!!
 -------------------------------------------------------------
 [<img src="./icons/facebook.png" height="50px" width="50px">](https://www.facebook.com/bafna.shreyanshjain)
 [<img src="./icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico" height="50px" width="50px">](https://angel.co/bafnasb)
