@@ -1,4 +1,8 @@
-Hey there,I am a final year undergraduate student,pursuing **Bachelor's of Engineering** at **Bhilai Institute of Technology**,Bhilai House,Durg  (C.G.),I am currently seeking a position as a Software Engineer to execute my skills,abilities and experiences gained through relevant education and projects to contribute to the growth of the company.
+I am a final year undergraduate student,pursuing **Bachelor's of Engineering** at **Bhilai Institute of Technology**,Bhilai House,Durg  (C.G.).
+
+## OBJECTIVE 
+
+I am currently seeking a position as a Software Engineer to execute my skills,abilities and experiences gained through relevant education and projects to contribute to the growth of the company.
 
 ## PERSONAL DETAILS
 
