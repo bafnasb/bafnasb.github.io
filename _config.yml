@@ -1,3 +1,33 @@
 theme: jekyll-theme-slate
 title: Hello,I'm Shreyansh Jain
 description: Welcome to my Portfolio
+
+github:
+  is_project_page:false
+
+menu:
+  home: /
+  #categories: /categories/
+  #about: /about/
+  archives: /archives/
+  tags: /tags/
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
+
+
+# Enable/Disable menu icons.
+# Icon Mapping:
+#   Map a menu item to a specific FontAwesome icon name.
+#   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
+#   When an question mask icon presenting up means that the item has no mapping icon.
+menu_icons:
+  enable: true
+  #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
+  home: home
+  about: user
+  categories: th
+  schedule: calendar
+  tags: tags
+  archives: archive
+  sitemap: sitemap
+  commonweal: heartbeat
