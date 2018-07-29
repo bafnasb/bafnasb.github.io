@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Hello,I'm Shreyansh Jain
 description: Welcome to my Portfolio
+github:
+  is_project_page: false
