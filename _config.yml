@@ -1,22 +1,3 @@
 theme: jekyll-theme-slate
 title: Hello,I'm Shreyansh Jain
 description: Welcome to my Portfolio
-
-owner:
-  name:           Shreyansh Jain
-  avatar:         0.jpeg
-  bio:            "The ordinary one,with not so ordinary dreams"
-  email:          bafnashanky1996@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        bafna_sb
-  facebook:       bafna.shreyanshjain
-  github:         bafnasb        
-  stackexchange:  
-  linkedin:       jshreyansh    
-  instagram:      _shreyanshbafna_
-  flickr:         
-  tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus: +bafnashanky1996
-  
-permalink:   /:categories/:title/
