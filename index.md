@@ -60,9 +60,9 @@ Angel Valley Senior Secondary School,Hudco,Bhilai(C.G) | Central Board Of Second
   - Programming Language : Python
   - Role : To develop a software tool for the below mentioned research paper.
     - https://www.ijmra.us/project%20doc/2017/IJMIE_DECEMBER2017/IJMRA-12964.pdf
-    - Authers of the above mentioned research paper and mentors -
-          - Dr.(Mrs.) Ani Thomas,Professor & Head,Department of Information Technology ,Bhilai Institute of Technology ,Bhilai House ,Durg (C.G.).
-          - Seema Mahato,Research Scholar,Dr. C.V Raman University,Bilaspur (C.G.).
+    - Authers of the above mentioned research paper and mentors :
+      - Dr.(Mrs.) Ani Thomas,Professor & Head,Department of Information Technology ,Bhilai Institute of Technology ,Bhilai House ,Durg (C.G.).
+      - Seema Mahato,Research Scholar,Dr. C.V Raman University,Bilaspur (C.G.).
 
 ## HONOURS / AWARDS
 - **Rank – 8 in Smart India Hackathon,2018** organised by Government of India and created the solution for the below written problem statement in the 36 hours Nonstop Hackathon  :
